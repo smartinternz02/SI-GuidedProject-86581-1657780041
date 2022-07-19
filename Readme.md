@@ -5,9 +5,9 @@ The agricultural land mass is more than just being a feeding source in today’s
 The suggested technique proves to be beneficial in monitoring large fields of crops. Automatic detection of the diseases by just seeing the symptoms on the plant leaves makes it easier as well as cheaper. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases.
 
 # Prerequisites :
-Anaconda Navigator
-Tensor flow
-Keras
+Anaconda Navigator,
+Tensor flow,
+Keras,
 Flask
 
 # Overall Project Zip File :
