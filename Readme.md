@@ -12,3 +12,6 @@ The suggested technique proves to be beneficial in monitoring large fields of cr
 
 # Demonstration Video Link:
 -> https://drive.google.com/drive/folders/1T7QQmaNwJwUtSIscK30CZ_d-m0M671r5?usp=sharing
+
+# Future Scope
+Further research may implements this proposed algorithm with the existing public datasets. Also, various segmentation algorithms can be implemented to improve accuracy. The proposed algorithm can be modified further to identify the disease that affects the various plant organs such as stems and fruits.
