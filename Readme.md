@@ -10,6 +10,20 @@ Tensor flow,
 Keras,
 Flask
 
+# Project Flow
+A web Application si built  where 
+-> Farmers interact with the portal build
+-> Interacts with the user interface to upload images of diseased leaf
+-> Our model built analyses the Disease and suggests the farmer with fertilizers are to be used 
+To accomplish the above task you must complete the below activities and tasks 
+-> Download the dataset.
+-> Classify the dataset into train and test sets.
+-> Add the neural network layers.
+-> Load the trained images and fit the model. 
+-> Test the model.
+-> Save the model and its dependencies.
+-> Build a Web application using a flask that integrates with the model built.
+
 # Overall Project Zip File :
 -> https://drive.google.com/file/d/1INXy3k14-V5usSx7nF8OJ_3kIyq7rB-z/view?usp=sharing
 
