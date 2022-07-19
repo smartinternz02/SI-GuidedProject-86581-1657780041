@@ -17,7 +17,7 @@ A web Application si built  where
 
 -> Interacts with the user interface to upload images of diseased leaf.
 
--> Our model built analyses the Disease and suggests the farmer with fertilizers are to be used.
+-> Our model built analyses the Disease and suggests the required fertilizers.
 
 To accomplish the above task you must complete the below activities and tasks 
 
