@@ -2,7 +2,8 @@
 # Fertilizers Recommendation System For Disease Prediction.
 
 
-
+# Total Project zip file
+===> https://drive.google.com/file/d/1INXy3k14-V5usSx7nF8OJ_3kIyq7rB-z/view?usp=sharing
 
 As we are unable to upload All the files to git we pushed it to drive and here is the link
 
