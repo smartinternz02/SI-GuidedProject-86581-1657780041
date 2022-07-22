@@ -37,7 +37,7 @@ To accomplish the above task you must complete the below activities and tasks
 
 -> Build a Web application using a flask that integrates with the model built.
 
-# Overall Project Zip File
+# Project Zip File
 -> https://drive.google.com/file/d/1INXy3k14-V5usSx7nF8OJ_3kIyq7rB-z/view?usp=sharing
 
 # Uploaded all the files into drive and link is provided below :
